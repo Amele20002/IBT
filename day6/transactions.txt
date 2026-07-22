@@ -1,0 +1,5 @@
+Almaz,500
+Dawit,200
+Almaz,300
+Tigist,700
+Dawit,100
